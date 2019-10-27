@@ -1,1 +1,3 @@
-Test get quick start demo
+Test get quick starta demo
+
+novagrana je branch na kom sad radim
